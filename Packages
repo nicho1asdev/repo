@@ -1,14 +1,14 @@
 Package: com.nicho1as.roundedcc
 Name: RoundedCC
 Version: 1.0
-Architecture: iphoneos-arm64
-Description: Rounded control center modules for a cleaner look?
+Architecture: iphoneos-arm
+Description: Rounded control center modules for a cleaner look? No options to configure yet.
 Maintainer: Nicholas
 Author: Nicholas
 Section: Tweak
 Depends:
-Filename: debs/com.nicho1as.roundedcc_iphoneos-arm64_1.0.deb
-Size: 11168
-MD5sum: c5203e53ed6ebaef0eb7ef8ea6425c91
-SHA1: 39986a2b2406193b538251d7bee14faa969ce80a
-SHA256: 36549263715f3fabe94eb87ee8ba98fc7c3a2911554010b6c11fcd070e45c565
+Filename: debs/com.nicho1as.roundedcc_1.0_iphoneos-arm.deb
+Size: 10268
+MD5sum: 8cbf680b0a49e2713cd57dea79bfea22
+SHA1: f554ff8dcc1cddcbdbb25da9416c8ba6c9aa48b2
+SHA256: c415ef273b42500ff7132fb4b86db55229ec9ac58f7a0b380f9a16f67c144cce
