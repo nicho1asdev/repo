@@ -1,8 +1,8 @@
-Origin: Nicho1as repo
-Label: Nicho1as repo
+Origin: Nicho1asdev
+Label: Nicho1asdev
 Suite: stable
 Version: 1.0
 Codename: ios
 Architectures: iphoneos-arm
 Components: main
-Description: Nicho1as repository
+Description: A repository for nicho1asdev's tweaks
