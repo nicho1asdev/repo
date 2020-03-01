@@ -18,9 +18,10 @@
 			Features:<br/>
 			* Powerdown confirmation alert to ensure that it wasn't a mistake.<br/>
 			* Tap the knob for a respring option (more options to come).<br/>
-			<br/>
-			BUGS WILL EXIST!
+			* No lockscreen autolock.<br/>
+			* Powerdown screen cancel fade out instead of locking (not working that well, may still have to open another app or lock the device).
 		]]>
+		<description>BUGS WILL EXIST!</description>
 		</description>
 	</descriptionlist>
 	<!--<screenshots>
