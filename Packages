@@ -18,10 +18,7 @@ Name: PowerTap 13
 Version: 1.0.1
 Architecture: iphoneos-arm
 Description: PowerTap for iOS 13.
-When powering down tap the knob for more features!
-* Only respringing is available right now (more to come).
-* Confirmation alert when powering down to ensure that it isn't a mistake.
-No option to configure yet.
+When powering down tap the knob for more features! * Only respringing is available right now (more to come). * Confirmation alert when powering down to ensure that it isn't a mistake. No option to configure yet.
 Maintainer: Nicholas
 Author: Nicholas
 Section: Tweak
