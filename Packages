@@ -1,0 +1,33 @@
+Package: com.nicho1as.roundedcc
+Name: RoundedCC
+Version: 1.0 B1
+Architecture: iphoneos-arm
+Description: Rounded control center modules for a cleaner look? No options to configure yet. Known bugs: Some modules doesn't get rounded when expanded and compacted. Some modules look a bit funny when expanded.
+Maintainer: Nicholas
+Author: Nicholas
+Section: Tweak
+Depends:
+Filename: debs/com.nicho1as.roundedcc_1.0_iphoneos-arm.deb
+Size: 10268
+MD5sum: 8cbf680b0a49e2713cd57dea79bfea22
+SHA1: f554ff8dcc1cddcbdbb25da9416c8ba6c9aa48b2
+SHA256: c415ef273b42500ff7132fb4b86db55229ec9ac58f7a0b380f9a16f67c144cce
+
+Package: com.nicho1asdev.powertap13
+Name: PowerTap 13
+Version: 1.0.1
+Architecture: iphoneos-arm
+Description: PowerTap for iOS 13.
+When powering down tap the knob for more features!
+* Only respringing is available right now (more to come).
+* Confirmation alert when powering down to ensure that it isn't a mistake.
+No option to configure yet.
+Maintainer: Nicholas
+Author: Nicholas
+Section: Tweak
+Depends:
+Filename: debs/com.nicho1as.powertap13_0.0.1_iphoneos.deb
+Size: 14028
+MD5sum: 92903caa0e7baa677fd7ba57fe781a48
+SHA1: fd6ffe6906e81bc26ee5c2d9ab0540fa4963ec1f
+SHA256: 9ed7adc13d995235e96306cfa014a69f8242435b1bef8b7be0b48b4d3edeec6b
