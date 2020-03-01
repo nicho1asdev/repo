@@ -1,4 +1,4 @@
-Package: com.nicho1as.roundedcc
+Package: com.nicho1asdev.roundedcc
 Name: RoundedCC
 Version: 1.0
 Architecture: iphoneos-arm
@@ -12,7 +12,7 @@ Size: 24750
 MD5sum: 8e559cde62cd773f96e0d332c98ae660
 SHA1: 893448eeb6de7c4e5ba942d2683658763665c004
 SHA256: d5ce0e99bbcf44d426f4ef95e2c85ae7bb6fabe63c01579c30613c43a8a3223e
-Depiction: https://nicho1asdev.github.io/repo/depictions/?p=com.nicho1as.roundedcc
+Depiction: https://nicho1asdev.github.io/repo/depictions/?p=com.nicho1asdev.roundedcc
 
 Package: com.nicho1asdev.powertap13
 Name: PowerTap 13
