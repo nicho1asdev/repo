@@ -9,9 +9,9 @@ Section: Tweak
 Depends:
 Filename: debs/com.nicho1asdev.roundedcc_1.0_iphoneos-arm.deb
 Size: 15456
-MD5sum: 8cbf680b0a49e2713cd57dea79bfea22
-SHA1: f554ff8dcc1cddcbdbb25da9416c8ba6c9aa48b2
-SHA256: c415ef273b42500ff7132fb4b86db55229ec9ac58f7a0b380f9a16f67c144cce
+MD5sum: 18d7895f88ce9d6ec9382707b6c8af94
+SHA1: c434a7573a7bc77d00cc59df5c5aeb8a51035aca
+SHA256: 5b637017b28210947f60d8dad8f2299aa19e1039f4bb7a5a48fdf09cd3c75008
 Depiction: https://nicho1asdev.github.io/repo/depictions/?p=com.nicho1asdev.roundedcc
 
 Package: com.nicho1asdev.powertap13
@@ -25,8 +25,8 @@ Author: Nicholas
 Section: Tweak
 Depends:
 Filename: debs/com.nicho1asdev.powertap13_1.0.1_iphoneos-arm.deb
-Size: 14028
-MD5sum: 8cbf680b0a49e2713cd57dea79bfea22
-SHA1: f554ff8dcc1cddcbdbb25da9416c8ba6c9aa48b2
-SHA256: c415ef273b42500ff7132fb4b86db55229ec9ac58f7a0b380f9a16f67c144cce
+Size: 14720
+MD5sum: 34247ce11fe9113981ab75b2254f23bd
+SHA1: 6faf18f590c6843a9cc934c3c888bf76beb85cd6
+SHA256: 85c5c4fbc6b2177510a52e4f926a6f0b2607d94a5730878fd43b435136d9bcac
 Depiction: https://nicho1asdev.github.io/repo/depictions/?p=com.nicho1asdev.powertap13
