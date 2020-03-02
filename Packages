@@ -26,7 +26,7 @@ Section: Tweak
 Depends:
 Filename: debs/com.nicho1asdev.powertap13_1.0.1_iphoneos-arm.deb
 Size: 14720
-MD5sum: 34247ce11fe9113981ab75b2254f23bd
-SHA1: 6faf18f590c6843a9cc934c3c888bf76beb85cd6
-SHA256: 85c5c4fbc6b2177510a52e4f926a6f0b2607d94a5730878fd43b435136d9bcac
+MD5sum: 0e1a1bef8f1b7b4323ae7b35b9399a82
+SHA1: 29e95d73bdd97280dd05c95e81d3b530e35f3d1b
+SHA256: 6a15ee2cc5ba40c968e2e3700b99ae29f1372fbc2da095a909519de3105c3524
 Depiction: https://nicho1asdev.github.io/repo/depictions/?p=com.nicho1asdev.powertap13
