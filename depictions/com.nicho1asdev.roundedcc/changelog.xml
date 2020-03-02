@@ -2,8 +2,8 @@
 
 	<changes>
 		<version>1.0.1</version>
-		<change>Fixed a few bugs and made some animations cleaner.</change>
-		<change>Fixed the AirPlay glyph in the nowplaying module to me in the middle on all devices.</change>
+		<change>Fixed a few bugs and made some animations smoother.</change>
+		<change>Fixed the AirPlay glyph in the nowplaying module to be in the middle of the module on all devices.</change>
 	</changes>
 
 	<changes>
