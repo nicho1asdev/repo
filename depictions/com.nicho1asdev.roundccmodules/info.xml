@@ -42,47 +42,45 @@
 </package>
 -->
 <package>
-    <id>com.supermamon.fullpackage</id>
-    <name>Full Package</name>
-    <version>2.0.0-1</version>
+    <id>com.nicho1asdev.roundccmodules</id>
+    <name>RoundCCModules</name>
+    <version>1.1</version>
     <compatibility>
         <firmware>
-            <miniOS>7.0</miniOS>
+            <miniOS>13.0</miniOS>
         </firmware>
     </compatibility>
     <dependencies>
         <package>mobilesubstrate</package>
     </dependencies>
-    <shortDescription>This is a sample new package. Firmware should be greater than 7.0</shortDescription>
+    <shortDescription>Rounded control center modules for a cleaner look?</shortDescription>
     <descriptionlist>
-        <description>This is an package will full depictions.</description>
-        <description>It has more description lines.</description>
-        <description><![CDATA[
-        You can also have<br/>
-        a multi-line item.
-        ]]>
+        <description>Compatible with iOS 13 only.</description>
+        <description>Options to configure from settings, more settings to customize soon!</description>
+        <description>BUGS MAY EXIST!</description>
         </description>
     </descriptionlist>
     <screenshots>
         <screenshot>
-            <description>This is a description for screenshot 1. It's Cydia!</description>
-            <image>cydia.jpg</image>
+            <image>CC.jpg</image>
         </screenshot>
         <screenshot>
-            <description>This is a description for screenshot 2. It's another Cydia!</description>
-            <image>cydia.jpg</image>
+            <image>volumeExpanded.png</image>
+        </screenshot>
+        <screenshot>
+            <image>cameraExpanded.png</image>
         </screenshot>
     </screenshots>
     <changelog>
-        <change>Second release</change>
-        <change>It has feature 1</change>
-        <change>It has feature 2</change>
+        <change>Added preferences to configure from settings</change>
+        <change>Added icon</changes>
+        <change>Added screenshots to the depiction</change>
     </changelog>
     <links>
         <link>
-            <name>/r/jailbreak</name>
-            <url>https://www.reddit.com/r/jailbreak</url>
-            <iconclass>fa fa-reddit</iconclass>
+            <name>@itsnicho1as on Twitter</name>
+            <url>https://www.twitter.com/itsnicho1as</url>
+            <iconclass>fa fa-twitter</iconclass>
         </link>
     </links>
 </package>
