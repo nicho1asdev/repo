@@ -64,12 +64,12 @@
         <screenshot>
             <image>CC.jpg</image>
         </screenshot>
-        <screenshot>
+        <!--<screenshot>
             <image>volumeExpanded.png</image>
         </screenshot>
         <screenshot>
             <image>cameraExpanded.png</image>
-        </screenshot>
+        </screenshot>-->
     </screenshots>
     <changelog>
         <change>Added preferences to configure from settings</change>
