@@ -3,8 +3,8 @@ Name: RoundCCModules
 Version: 1.1
 Architecture: iphoneos-arm
 Description: Rounded control center modules for a cleaner look? No options to configure yet.
-Maintainer: n1cholasdev
-Author: n1cholasdev
+Maintainer: nicho1asdev
+Author: nicho1asdev
 Section: Tweak
 Depends: ws.hbang.common (>= 1.11)
 Filename: debs/com.nicho1asdev.roundedcc_1.1_iphoneos-arm.deb
