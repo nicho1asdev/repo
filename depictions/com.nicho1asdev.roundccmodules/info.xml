@@ -1,47 +1,48 @@
 <package>
-	<id>com.nicho1asdev.powertap13</id>
-	<name>PowerTap 13</name>
-	<version>1.0.1</version>
-	<compatibility>
-		<firmware>
-			<miniOS>13</miniOS>
-		</firmware>
-	</compatibility>
-	<dependencies>
-		<package>mobilesubstrate</package>
-	</dependencies>
-	<shortDescription>Tap the powerknob to cycle between different options</shortDescription>
-	<descriptionlist>
-		<description>Compatible with iOS 13 only.</description>
-		<description>No options to configure yet.</description>
-		<description><![CDATA[
-			Features:<br/>
-			* Powerdown confirmation alert to ensure that it wasn't a mistake.<br/>
-			* Tap the knob for a respring option (more options to come).<br/>
-			* No lockscreen autolock.<br/>
-			* Powerdown screen cancel fade out instead of locking (not working that well, may still have to open another app or lock the device).
-		]]>
-		<description>BUGS WILL EXIST!</description>
-		</description>
-	</descriptionlist>
-	<!--<screenshots>
-		<screenshot>
-			<description>This is a description for screenshot 1. It's Cydia!</description>
-			<image>cydia.jpg</image>
-		</screenshot>
-		<screenshot>
-			<description>This is a description for screenshot 2. It's another Cydia!</description>
-			<image>cydia.jpg</image>
-		</screenshot>
-	</screenshots>-->
-	<changelog>
-		<change>Initial release</change>
-	</changelog>
-	<links>
-		<link>
-			<name>@itsnicho1as on Twitter</name>
-			<url>https://www.twitter.com/itsnicho1as</url>
-			<iconclass>fa fa-twitter</iconclass>
-		</link>
-	</links>
+    <id>com.nicho1asdev.roundccmodules</id>
+    <name>RoundCCModules</name>
+    <version>1.1</version>
+    <compatibility>
+        <firmware>
+            <miniOS>13</miniOS>
+        </firmware>
+    </compatibility>
+    <dependencies>
+        <package>mobilesubstrate</package>
+    </dependencies>
+    <shortDescription>Rounded control center modules for a cleaner look?</shortDescription>
+    <descriptionlist>
+        <description>Compatible with iOS 13 only.</description>
+        <description>Options to configure from settings, more settings to customize soon!</description>
+        <description><![CDATA[
+            BUGS WILL EXIST!
+        ]]>
+        </description>
+    </descriptionlist>
+    <!--<screenshots>
+        <screenshot>
+            <description>All modules rounded, all expanded are rounded as well</description>
+            <image>CC.jpg</image>
+        </screenshot>
+        <screenshot>
+            <description>Volume module expanded</description>
+            <image>volumeExpanded.PNG</image>
+        </screenshot>
+        <screenshot>
+            <description>Camera module expanded</description>
+            <image>cameraExpanded.PNG</image>
+        </screenshot>
+    </screenshots>-->
+    <changelog>
+        <change>Added preferences to configure from settings</change>
+        <change>Added icon</changes>
+        <change>Added screenshots to the depiction</change>
+    </changelog>
+    <links>
+        <link>
+            <name>@itsnicho1as on Twitter</name>
+            <url>https://www.twitter.com/itsnicho1as</url>
+            <iconclass>fa fa-twitter</iconclass>
+        </link>
+    </links>
 </package>
