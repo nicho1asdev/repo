@@ -1,5 +1,5 @@
 <package>
-    <id>com.nicho1asdev.roundccmodules</id>
+    <id>com.nicho1asdev.powertap13</id>
     <name>RoundCCModules</name>
     <version>1.1</version>
     <compatibility>
@@ -19,7 +19,7 @@
         ]]>
         </description>
     </descriptionlist>
-    <!--<screenshots>
+    <screenshots>
         <screenshot>
             <description>All modules rounded, all expanded are rounded as well</description>
             <image>CC.jpg</image>
@@ -32,7 +32,7 @@
             <description>Camera module expanded</description>
             <image>cameraExpanded.PNG</image>
         </screenshot>
-    </screenshots>-->
+    </screenshots>
     <changelog>
         <change>Added preferences to configure from settings</change>
         <change>Added icon</changes>
