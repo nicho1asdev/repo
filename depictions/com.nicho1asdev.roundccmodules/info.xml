@@ -61,12 +61,13 @@
     </descriptionlist>
     <screenshots>
         <screenshot>
-            <description>This is a description for screenshot 1. It's Cydia!</description>
             <image>CC.jpg</image>
         </screenshot>
         <screenshot>
-            <description>This is a description for screenshot 2. It's another Cydia!</description>
             <image>volumeExpanded.png</image>
+        </screenshot>
+        <screenshot>
+            <image>cameraExpanded.png</image>
         </screenshot>
     </screenshots>
     <changelog>
@@ -76,9 +77,9 @@
     </changelog>
     <links>
         <link>
-            <name>/r/jailbreak</name>
-            <url>https://www.reddit.com/r/jailbreak</url>
-            <iconclass>fa fa-reddit</iconclass>
+            <name>@itsnicho1as on Twitter</name>
+            <url>https://www.twitter.com/itsnicho1as</url>
+            <iconclass>fa fa-twitter</iconclass>
         </link>
     </links>
 </package>
