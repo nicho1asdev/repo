@@ -6,7 +6,7 @@
 		<firmware>
 			<miniOS>13</miniOS>
 		</firmware>
-	</compatibility>jwdw
+	</compatibility>
 	<dependencies>
 		<package>mobilesubstrate</package>
 	</dependencies>
