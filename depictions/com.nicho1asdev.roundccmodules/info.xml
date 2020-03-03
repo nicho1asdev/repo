@@ -1,5 +1,5 @@
 <package>
-    <id>com.nicho1asdev.powertap13</id>
+    <id>com.nicho1asdev.roundccmodules</id>
     <name>RoundCCModules</name>
     <version>1.1</version>
     <compatibility>
@@ -14,22 +14,16 @@
     <descriptionlist>
         <description>Compatible with iOS 13 only.</description>
         <description>Options to configure from settings, more settings to customize soon!</description>
-        <description><![CDATA[
-            BUGS WILL EXIST!
-        ]]>
-        </description>
+        <description>BUGS MAY EXIST!</description>
     </descriptionlist>
     <screenshots>
         <screenshot>
-            <description>All modules rounded, all expanded are rounded as well</description>
             <image>CC.jpg</image>
         </screenshot>
         <screenshot>
-            <description>Volume module expanded</description>
             <image>volumeExpanded.PNG</image>
         </screenshot>
         <screenshot>
-            <description>Camera module expanded</description>
             <image>cameraExpanded.PNG</image>
         </screenshot>
     </screenshots>
