@@ -19,7 +19,10 @@
 			* Powerdown confirmation alert to ensure that it wasn't a mistake.<br/>
 			* Tap the knob for a respring option (more options to come).<br/>
 			* No lockscreen autolock.<br/>
-			* Powerdown screen cancel fade out instead of locking (not working that well, may still have to open another app or lock the device).
+			* Powerdown screen cancel fade out instead of locking (not working that well, may still have to open another app or lock the device).<br/>
+            <br/>
+            SOON:<br/>
+            * Options to disable custom cancel animation and no autolock from settings!
 		]]>
 		<description>BUGS WILL EXIST!</description>
 		</description>
