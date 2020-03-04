@@ -22,9 +22,10 @@
 			* Powerdown screen cancel fade out instead of locking (not working that well, may still have to open another app or lock the device).<br/>
             <br/>
             SOON:<br/>
-            * Options to disable custom cancel animation and no autolock from settings!
+            * Options to disable custom cancel animation and no autolock from settings!<br/>
+            <br/>
+            Keep in mind that bugs may exist!
 		]]>
-		<description>BUGS WILL EXIST!</description>
 		</description>
 	</descriptionlist>
 	<!--<screenshots>
