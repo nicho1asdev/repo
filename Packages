@@ -1,17 +1,17 @@
 Package: com.nicho1asdev.roundccmodules
 Name: RoundCCModules
-Version: 1.1
+Version: 1.1.1
 Architecture: iphoneos-arm
 Description: Rounded control center modules for a cleaner look? No options to configure yet.
 Maintainer: nicho1asdev
 Author: nicho1asdev
 Section: Tweak
 Depends: ws.hbang.common (>= 1.11)
-Filename: debs/com.nicho1asdev.roundccmodules_1.1_iphoneos-arm.deb
-Size: 23126
-MD5sum: 6ba84d1504139873241ff51dc32b60b9
-SHA1: 9272da6b7741abbd93d4303e12b96aebd521579a
-SHA256: 32af78dd2f2428aa80a946e935a1fd759c607481aabc4e300ca357d19c5a3420
+Filename: debs/com.nicho1asdev.roundccmodules_1.1.1_iphoneos-arm.deb
+Size: 51590
+MD5sum: c03d8f6275da67676bab5178c6b427dc
+SHA1: f4c3ca0179830fe753c04ae6139edeff45d45b28
+SHA256: 462d38d9b27965acdf9a1bc47f8dd6db8cb1a926db6cedba4f4a19dfc033c5a2
 Depiction: https://nicho1asdev.github.io/repo/depictions/?p=com.nicho1asdev.roundccmodules
 
 Package: com.nicho1asdev.powertap13
