@@ -13,6 +13,7 @@ MD5sum: c03d8f6275da67676bab5178c6b427dc
 SHA1: f4c3ca0179830fe753c04ae6139edeff45d45b28
 SHA256: 462d38d9b27965acdf9a1bc47f8dd6db8cb1a926db6cedba4f4a19dfc033c5a2
 Depiction: https://nicho1asdev.github.io/repo/depictions/?p=com.nicho1asdev.roundccmodules
+Icon: file:///Library/PreferenceBundles/RoundCCModules.bundle/icon@2x.png
 
 Package: com.nicho1asdev.powertap13
 Name: PowerTap 13
