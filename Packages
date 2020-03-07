@@ -1,33 +1,34 @@
-Package: com.nicho1asdev.roundccmodules
-Name: RoundCCModules
-Version: 1.1.1
-Architecture: iphoneos-arm
-Description: Rounded control center modules for a cleaner look? @itsnicho1as on twitter.
-Maintainer: nicho1asdev
-Author: nicho1asdev
-Section: Tweak
-Depends: ws.hbang.common (>= 1.11)
-Filename: debs/com.nicho1asdev.roundccmodules_1.1.1_iphoneos-arm.deb
-Size: 51590
-MD5sum: c03d8f6275da67676bab5178c6b427dc
-SHA1: f4c3ca0179830fe753c04ae6139edeff45d45b28
-SHA256: 462d38d9b27965acdf9a1bc47f8dd6db8cb1a926db6cedba4f4a19dfc033c5a2
-Depiction: https://nicho1asdev.github.io/repo/depictions/?p=com.nicho1asdev.roundccmodules
-Icon: file:///Library/PreferenceBundles/RoundCCModulesPrefs.bundle/icon@2x.png
-
 Package: com.nicho1asdev.powertap13
-Name: PowerTap 13
 Version: 1.0.1
 Architecture: iphoneos-arm
-Description: PowerTap for iOS 13.
-When powering down tap the knob for more features! @itsnicho1as on twitter.
-Maintainer: nicho1asdev
-Author: nicho1asdev
-Section: Tweak
-Depends:
-Filename: debs/com.nicho1asdev.powertap13_1.0.1_iphoneos-arm.deb
+Maintainer: Nicholas
+Installed-Size: 204
+Depends: mobilesubstrate
+Filename: ./debs/com.nicho1asdev.powertap13_1.0.1_iphoneos-arm.deb
 Size: 14734
 MD5sum: 0e1a1bef8f1b7b4323ae7b35b9399a82
 SHA1: 29e95d73bdd97280dd05c95e81d3b530e35f3d1b
 SHA256: 6a15ee2cc5ba40c968e2e3700b99ae29f1372fbc2da095a909519de3105c3524
+Section: Tweaks
+Description: An awesome MobileSubstrate tweak!
+Author: Nicholas
 Depiction: https://nicho1asdev.github.io/repo/depictions/?p=com.nicho1asdev.powertap13
+Name: PowerTap 13
+
+Package: com.nicho1asdev.roundccmodules
+Version: 1.1.1
+Architecture: iphoneos-arm
+Maintainer: nicho1asdev
+Installed-Size: 460
+Depends: mobilesubstrate
+Filename: ./debs/com.nicho1asdev.roundccmodules_1.1.1_iphoneos-arm.deb
+Size: 51590
+MD5sum: c03d8f6275da67676bab5178c6b427dc
+SHA1: f4c3ca0179830fe753c04ae6139edeff45d45b28
+SHA256: 462d38d9b27965acdf9a1bc47f8dd6db8cb1a926db6cedba4f4a19dfc033c5a2
+Section: Tweaks
+Description: Rounded control center modules for a cleaner look? Options to configure in settings.
+Author: nicho1asdev
+Depiction: https://nicho1asdev.github.io/repo/depictions/?p=com.nicho1asdev.roundccmodules
+Name: RoundCCModules
+
