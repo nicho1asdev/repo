@@ -4,7 +4,7 @@ Architecture: iphoneos-arm
 Maintainer: Nicholas
 Installed-Size: 204
 Depends: mobilesubstrate
-Filename: ./debs/com.nicho1asdev.powertap13_1.0.1_iphoneos-arm.deb
+Filename: /debs/com.nicho1asdev.powertap13_1.0.1_iphoneos-arm.deb
 Size: 14734
 MD5sum: 0e1a1bef8f1b7b4323ae7b35b9399a82
 SHA1: 29e95d73bdd97280dd05c95e81d3b530e35f3d1b
@@ -21,7 +21,7 @@ Architecture: iphoneos-arm
 Maintainer: nicho1asdev
 Installed-Size: 460
 Depends: mobilesubstrate
-Filename: ./debs/com.nicho1asdev.roundccmodules_1.1.1_iphoneos-arm.deb
+Filename: /debs/com.nicho1asdev.roundccmodules_1.1.1_iphoneos-arm.deb
 Size: 51590
 MD5sum: c03d8f6275da67676bab5178c6b427dc
 SHA1: f4c3ca0179830fe753c04ae6139edeff45d45b28
