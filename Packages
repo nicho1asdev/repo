@@ -30,5 +30,6 @@ Section: Tweaks
 Description: Rounded control center modules for a cleaner look? Options to configure in settings.
 Author: nicho1asdev
 Depiction: https://nicho1asdev.github.io/repo/depictions/?p=com.nicho1asdev.roundccmodules
+Icon: file///Library/PreferenceBundles/RoundCCModulesPrefs.bundle/icon@2x.png
 Name: RoundCCModules
 
