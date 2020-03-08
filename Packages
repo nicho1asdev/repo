@@ -2,7 +2,7 @@ Package: com.nicho1asdev.powertap13
 Version: 1.0.1
 Architecture: iphoneos-arm
 Maintainer: Nicholas
-Installed-Size: 204
+Installed-Size: 14734
 Depends: mobilesubstrate
 Filename: /debs/com.nicho1asdev.powertap13_1.0.1_iphoneos-arm.deb
 Size: 14734
@@ -16,10 +16,27 @@ Depiction: https://nicho1asdev.github.io/repo/depictions/?p=com.nicho1asdev.powe
 Name: PowerTap 13
 
 Package: com.nicho1asdev.roundccmodules
+Version: 1.1
+Architecture: iphoneos-arm
+Maintainer: n1cholasdev
+Installed-Size: 23126
+Depends: mobilesubstrate
+Filename: /debs/com.nicho1asdev.roundccmodules_1.1_iphoneos-arm.deb
+Size: 23126
+MD5sum: 6ba84d1504139873241ff51dc32b60b9
+SHA1: 9272da6b7741abbd93d4303e12b96aebd521579a
+SHA256: 32af78dd2f2428aa80a946e935a1fd759c607481aabc4e300ca357d19c5a3420
+Section: Tweaks
+Description: Rounded control center modules for a cleaner look? Options to configure in settings.
+Author: n1cholasdev
+Depiction: https://nicho1asdev.github.io/repo/depictions/?p=com.nicho1asdev.roundccmodules
+Name: RoundCCModules
+
+Package: com.nicho1asdev.roundccmodules
 Version: 1.1.1
 Architecture: iphoneos-arm
 Maintainer: nicho1asdev
-Installed-Size: 460
+Installed-Size: 51580
 Depends: mobilesubstrate
 Filename: /debs/com.nicho1asdev.roundccmodules_1.1.1_iphoneos-arm.deb
 Size: 51590
@@ -30,6 +47,23 @@ Section: Tweaks
 Description: Rounded control center modules for a cleaner look? Options to configure in settings.
 Author: nicho1asdev
 Depiction: https://nicho1asdev.github.io/repo/depictions/?p=com.nicho1asdev.roundccmodules
-Icon: file///Library/PreferenceBundles/RoundCCModulesPrefs.bundle/icon@2x.png
+Name: RoundCCModules
+
+Package: com.nicho1asdev.roundccmodules
+Version: 1.1.2
+Architecture: iphoneos-arm
+Maintainer: nicho1asdev
+Installed-Size: 62984
+Depends: mobilesubstrate, ws.hbang.common (>= 1.14), org.thebigboss.libcolorpicker
+Filename: /debs/com.nicho1asdev.roundccmodules_1.1.2_iphoneos-arm.deb
+Size: 62984
+MD5sum: 0e8651fef9aace1f2a81ec7dd279edad
+SHA1: abd9e96beffdef819c6a37edc0b9056000d75e51
+SHA256: 7363921b8d9307c7cc8a3cf0e9cdf5178ca86161fd825268ec52d7a5c26d2f40
+Section: Tweaks
+Description: Rounded control center modules for a cleaner look! Options to configure in settings. @itsnich1as on twitter.
+Author: nicho1asdev
+Depiction: https://nicho1asdev.github.io/repo/depictions/?p=com.nicho1asdev.roundccmodules
+Icon: file:///Library/PreferenceBundles/RoundCCModulesPrefs.bundle/icon@2x.png
 Name: RoundCCModules
 

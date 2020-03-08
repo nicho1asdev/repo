@@ -1,5 +1,15 @@
 <changelog>
-
+    
+    <changes>
+            <version>1.1.2</version>
+            <change>Added optional custom color for the modules!</change>
+            <change>Added random colors for the modules.</change>
+            <change>Added custom color alpha for the modules.</change>
+            <change>Added optional brightness and audio sliders rounded</change>
+            <change>Added option to set sliders corner radius</change>
+            <change>Fixed a ton of bugs</change>
+            <change>Fixed a bug with a nasty transition between compact and expanded for the volume slider.</change>
+    </changes>
     <changes>
             <version>1.1.1</version>
             <change>Reworked preferences, better quality icon.</change>

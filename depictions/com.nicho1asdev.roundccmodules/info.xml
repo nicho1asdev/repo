@@ -44,7 +44,7 @@
 <package>
     <id>com.nicho1as.roundccmodules</id>
     <name>RoundCCModules</name>
-    <version>1.1.1</version>
+    <version>1.1.2</version>
     <compatibility>
         <firmware>
             <miniOS>13.0</miniOS>
@@ -58,11 +58,16 @@
         <description>Compatible with iOS 13 only.</description>
         <description>Options to configure from settings, more settings to customize soon!</description>
         <description>Custom corner radius for compact modules and expanded modules!</description>
+        <description>Custom color for the modules!</description>
         <description>BUGS MAY EXIST!</description>
     </descriptionlist>
     <screenshots>
         <screenshot>
             <image>CC.jpg</image>
+        </screenshot>
+        <screenshot>
+            <description>Custom colors set to random!</descriptions>
+            <image>CCcolors.jpg</image>
         </screenshot>
         <screenshot>
             <image>volumeExpanded.jpg</image>
@@ -80,10 +85,10 @@
         </screenshot>
     </screenshots>
     <changelog>
-        <change>Reworked preferences, better quality icon.</change>
-        <change>Added custom corner radius for compact and expanded modules to configure from settings</change>
-        <change>Fixed a bug that made the volume hud get rounded sometimes</change>
-        <change>And more!, see the full changelog</change>
+        <change>Added optional custom color for the modules!</change>
+        <change>Added random colors for the modules.</change>
+        <change>Added custom color alpha for the modules.</change>
+        <change>And more! See the full changelog for all changes.</change>
     </changelog>
     <links>
         <link>
