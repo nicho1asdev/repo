@@ -5,7 +5,7 @@
         <change>Added color compatibility with iOS 13.3.</change>
         <change>Fixed a bug on iOS 13.3 where the sliders didn't get rounded.</change>
         <change>Fixed lag when using random colors.</change>
-        <changes>Fixed a bug that didn't apply custom colors on the media and volume modules.</change>
+        <change>Fixed a bug that didn't apply custom colors on the media and volume modules.</change>
         <change>Fixed a bug that made custom colors "flash" when the module expanded on iOS 13.3</change>
         <change>Fixed a bug on iOS 13.3 that made the custom colors dissapear on some modules when the media module was transitioning to compact state.</change>
     </changes>
