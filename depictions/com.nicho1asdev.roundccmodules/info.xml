@@ -44,7 +44,7 @@
 <package>
     <id>com.nicho1as.roundccmodules</id>
     <name>RoundCCModules</name>
-    <version>1.1.2</version>
+    <version>1.2</version>
     <compatibility>
         <firmware>
             <miniOS>13.0</miniOS>
@@ -58,8 +58,8 @@
         <description>Compatible with iOS 13 only.</description>
         <description>Options to configure from settings, more settings to customize soon!</description>
         <description>Custom corner radius for compact modules and expanded modules!</description>
-        <description>Custom color for the modules!</description>
-        <description>BUGS MAY EXIST!</description>
+        <description>Custom color on the modules!</description>
+        <description>BUGS MAY EXIST! If you find any, please dm me on Twitter.</description>
     </descriptionlist>
     <screenshots>
         <screenshot>
@@ -85,9 +85,9 @@
         </screenshot>
     </screenshots>
     <changelog>
-        <change>Added optional custom color for the modules!</change>
-        <change>Added random colors for the modules.</change>
-        <change>Added custom color alpha for the modules.</change>
+        <change>Added custom color compatibility with iOS 13.3.</change>
+        <change>Fixed a bug on iOS 13.3 where the sliders didn't get rounded.</change>
+        <change>Fixed lag when using random colors.</change>
         <change>And more! See the full changelog for all changes.</change>
     </changelog>
     <links>
