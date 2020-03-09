@@ -44,7 +44,7 @@
 <package>
     <id>com.nicho1as.roundccmodules</id>
     <name>RoundCCModules</name>
-    <version>1.2</version>
+    <version>1.2.1</version>
     <compatibility>
         <firmware>
             <miniOS>13.0</miniOS>
