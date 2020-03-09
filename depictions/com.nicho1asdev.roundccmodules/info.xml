@@ -85,10 +85,7 @@
         </screenshot>
     </screenshots>
     <changelog>
-        <change>Added custom color compatibility with iOS 13.3.</change>
-        <change>Fixed a bug on iOS 13.3 where the sliders didn't get rounded.</change>
-        <change>Fixed lag when using random colors.</change>
-        <change>And more! See the full changelog for all changes.</change>
+        <change>Fixed a issue introduced in the last update that didn't apply rounding to selected modules in the control center.</change>
     </changelog>
     <links>
         <link>

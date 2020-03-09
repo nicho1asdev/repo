@@ -30,6 +30,7 @@ Section: Tweaks
 Description: Rounded control center modules for a cleaner look? Options to configure in settings.
 Author: n1cholasdev
 Depiction: https://nicho1asdev.github.io/repo/depictions/?p=com.nicho1asdev.roundccmodules
+Icon: file:///Library/PreferenceBundles/RoundCCModulesPrefs.bundle/icon@2x.png
 Name: RoundCCModules
 
 Package: com.nicho1asdev.roundccmodules
@@ -47,6 +48,7 @@ Section: Tweaks
 Description: Rounded control center modules for a cleaner look? Options to configure in settings.
 Author: nicho1asdev
 Depiction: https://nicho1asdev.github.io/repo/depictions/?p=com.nicho1asdev.roundccmodules
+Icon: file:///Library/PreferenceBundles/RoundCCModulesPrefs.bundle/icon@2x.png
 Name: RoundCCModules
 
 Package: com.nicho1asdev.roundccmodules
@@ -78,6 +80,24 @@ Size: 64490
 MD5sum: 42d8c7603d45af6744f46ed091957d29
 SHA1: 3e0a8f023a39729ead78920c9fb16f2a134517c1
 SHA256: 8b43ed2271b7f06a2b2df397613a88ea65269e06dc8239bd067777f1e949c630
+Section: Tweaks
+Description: Rounded control center modules for a cleaner look! Options to configure in settings. @itsnich1as on twitter.
+Author: nicho1asdev
+Depiction: https://nicho1asdev.github.io/repo/depictions/?p=com.nicho1asdev.roundccmodules
+Icon: file:///Library/PreferenceBundles/RoundCCModulesPrefs.bundle/icon@2x.png
+Name: RoundCCModules
+
+Package: com.nicho1asdev.roundccmodules
+Version: 1.2.1
+Architecture: iphoneos-arm
+Maintainer: nicho1asdev
+Installed-Size: 508
+Depends: mobilesubstrate, ws.hbang.common (>= 1.14), org.thebigboss.libcolorpicker
+Filename: /debs/com.nicho1asdev.roundccmodules_1.2.1_iphoneos-arm.deb
+Size: 64542
+MD5sum: e61773dc368b6ac18d4d0e6e6b1bf811
+SHA1: 00a3bbda1adb505c5d5b9e0ceeafddad0f765f02
+SHA256: 275e66514d65dc9ab339a02db2448f6029989f6825783362af4055b85252579e
 Section: Tweaks
 Description: Rounded control center modules for a cleaner look! Options to configure in settings. @itsnich1as on twitter.
 Author: nicho1asdev

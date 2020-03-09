@@ -1,6 +1,10 @@
 <changelog>
     
     <changes>
+            <version>1.2.1</version>
+            <change>Fixed a bug introduced in the last update that didn't apply rounding to selected modules in the control center.</change>
+    </changes>
+    <changes>
         <version>1.2</version>
         <change>Added color compatibility with iOS 13.3.</change>
         <change>Fixed a bug on iOS 13.3 where the sliders didn't get rounded.</change>
