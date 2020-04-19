@@ -1,0 +1,38 @@
+<package>
+	<id>com.nicho1asdev.nonotch</id>
+	<name>noNotch</name>
+	<version>1.2-b1</version>
+	<compatibility>
+		<firmware>
+			<miniOS>11</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>mobilesubstrate</package>
+	</dependencies>
+	<shortDescription>Updated for iOS 13 and arm64e by nicho1asdev, originally made by jakeashacks. Hides the notch on iPhone X and above. Issues are present. Source code: https://github.com/jakeajames/noNotch</shortDescription>
+	<descriptionlist>
+		<description>Should be compatible with iOS 11 to iOS 13, if not, please send me a message on Twitter @itsnicho1as.</description>
+		<description>Options to configure in settings.</description>
+	</descriptionlist>
+	<!--<screenshots>
+		<screenshot>
+			<description>This is a description for screenshot 1. It's Cydia!</description>
+			<image>cydia.jpg</image>
+		</screenshot>
+		<screenshot>
+			<description>This is a description for screenshot 2. It's another Cydia!</description>
+			<image>cydia.jpg</image>
+		</screenshot>
+	</screenshots>-->
+	<changelog>
+		<change>Initial release</change>
+	</changelog>
+	<links>
+		<link>
+			<name>@itsnicho1as on Twitter</name>
+			<url>https://www.twitter.com/itsnicho1as</url>
+			<iconclass>fa fa-twitter</iconclass>
+		</link>
+	</links>
+</package>
