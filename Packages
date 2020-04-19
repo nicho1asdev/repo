@@ -1,10 +1,26 @@
+Package: com.nicho1asdev.nonotch
+Version: 1.2-b1
+Architecture: iphoneos-arm
+Maintainer: nicho1asdev
+Installed-Size: 408
+Pre-Depends: firmware(>=11.0), mobilesubstrate, com.rpetrich.rocketbootstrap (>= 1.0.6)
+Filename: ./debs/com.nicho1asdev.nonotch_1.2-b1_iphoneos-arm.deb
+Size: 18222
+MD5sum: c957fd40fdaf9f203b9be5f68964d341
+SHA1: 1e54d5d3948bc8a900d87055751168a386f5533b
+SHA256: 514d5484b4bdcbe276a9ab4fe4725ecea859c7753fe72da5fecd816da8a06d2c
+Section: System
+Description: Updated for iOS 13 and arm64e by nicho1asdev, originally made by jakeashacks. Hides the notch on iPhone X and above. Issues are present. Source code: https://github.com/jakeajames/noNotch
+Author: Jake James <jakeashacks@gmail.com>
+Name: noNotch
+
 Package: com.nicho1asdev.powertap13
 Version: 1.0.1
 Architecture: iphoneos-arm
 Maintainer: Nicholas
 Installed-Size: 204
 Depends: mobilesubstrate
-Filename: /debs/com.nicho1asdev.powertap13_1.0.1_iphoneos-arm.deb
+Filename: ./debs/com.nicho1asdev.powertap13_1.0.1_iphoneos-arm.deb
 Size: 14734
 MD5sum: 0e1a1bef8f1b7b4323ae7b35b9399a82
 SHA1: 29e95d73bdd97280dd05c95e81d3b530e35f3d1b
@@ -21,7 +37,7 @@ Architecture: iphoneos-arm
 Maintainer: n1cholasdev
 Installed-Size: 412
 Depends: mobilesubstrate
-Filename: /debs/com.nicho1asdev.roundccmodules_1.1_iphoneos-arm.deb
+Filename: ./debs/com.nicho1asdev.roundccmodules_1.1_iphoneos-arm.deb
 Size: 23126
 MD5sum: 6ba84d1504139873241ff51dc32b60b9
 SHA1: 9272da6b7741abbd93d4303e12b96aebd521579a
@@ -30,7 +46,6 @@ Section: Tweaks
 Description: Rounded control center modules for a cleaner look? Options to configure in settings.
 Author: n1cholasdev
 Depiction: https://nicho1asdev.github.io/repo/depictions/?p=com.nicho1asdev.roundccmodules
-Icon: file:///Library/PreferenceBundles/RoundCCModulesPrefs.bundle/icon@2x.png
 Name: RoundCCModules
 
 Package: com.nicho1asdev.roundccmodules
@@ -39,7 +54,7 @@ Architecture: iphoneos-arm
 Maintainer: nicho1asdev
 Installed-Size: 460
 Depends: mobilesubstrate
-Filename: /debs/com.nicho1asdev.roundccmodules_1.1.1_iphoneos-arm.deb
+Filename: ./debs/com.nicho1asdev.roundccmodules_1.1.1_iphoneos-arm.deb
 Size: 51590
 MD5sum: c03d8f6275da67676bab5178c6b427dc
 SHA1: f4c3ca0179830fe753c04ae6139edeff45d45b28
@@ -48,7 +63,6 @@ Section: Tweaks
 Description: Rounded control center modules for a cleaner look? Options to configure in settings.
 Author: nicho1asdev
 Depiction: https://nicho1asdev.github.io/repo/depictions/?p=com.nicho1asdev.roundccmodules
-Icon: file:///Library/PreferenceBundles/RoundCCModulesPrefs.bundle/icon@2x.png
 Name: RoundCCModules
 
 Package: com.nicho1asdev.roundccmodules
@@ -57,7 +71,7 @@ Architecture: iphoneos-arm
 Maintainer: nicho1asdev
 Installed-Size: 492
 Depends: mobilesubstrate, ws.hbang.common (>= 1.14), org.thebigboss.libcolorpicker
-Filename: /debs/com.nicho1asdev.roundccmodules_1.1.2_iphoneos-arm.deb
+Filename: ./debs/com.nicho1asdev.roundccmodules_1.1.2_iphoneos-arm.deb
 Size: 62984
 MD5sum: 0e8651fef9aace1f2a81ec7dd279edad
 SHA1: abd9e96beffdef819c6a37edc0b9056000d75e51
@@ -75,7 +89,7 @@ Architecture: iphoneos-arm
 Maintainer: nicho1asdev
 Installed-Size: 508
 Depends: mobilesubstrate, ws.hbang.common (>= 1.14), org.thebigboss.libcolorpicker
-Filename: /debs/com.nicho1asdev.roundccmodules_1.2_iphoneos-arm.deb
+Filename: ./debs/com.nicho1asdev.roundccmodules_1.2_iphoneos-arm.deb
 Size: 64490
 MD5sum: 42d8c7603d45af6744f46ed091957d29
 SHA1: 3e0a8f023a39729ead78920c9fb16f2a134517c1
@@ -93,7 +107,7 @@ Architecture: iphoneos-arm
 Maintainer: nicho1asdev
 Installed-Size: 508
 Depends: mobilesubstrate, ws.hbang.common (>= 1.14), org.thebigboss.libcolorpicker
-Filename: /debs/com.nicho1asdev.roundccmodules_1.2.1_iphoneos-arm.deb
+Filename: ./debs/com.nicho1asdev.roundccmodules_1.2.1_iphoneos-arm.deb
 Size: 64542
 MD5sum: e61773dc368b6ac18d4d0e6e6b1bf811
 SHA1: 00a3bbda1adb505c5d5b9e0ceeafddad0f765f02
