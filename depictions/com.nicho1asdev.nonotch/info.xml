@@ -26,7 +26,7 @@
 		</screenshot>
 	</screenshots>-->
 	<changelog>
-		<change>Initial release</change>
+		<change>* Partially fixed an annoying issue where the status bar and notch cover wouldn’t be there while the device was locked. This would cause a “flash” when unlocking the device. Now, only the status bar is gone while the device is locked, getting rid of the “flash”.</change>
 	</changelog>
 	<links>
 		<link>

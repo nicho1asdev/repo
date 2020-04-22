@@ -14,6 +14,22 @@ Description: Updated for iOS 13 and arm64e by nicho1asdev, originally made by ja
 Author: Jake James <jakeashacks@gmail.com>
 Name: noNotch
 
+Package: com.nicho1asdev.nonotch
+Version: 1.2-b2
+Architecture: iphoneos-arm
+Maintainer: nicho1asdev
+Installed-Size: 408
+Pre-Depends: firmware(>=11.0), mobilesubstrate, com.rpetrich.rocketbootstrap (>= 1.0.6)
+Filename: ./debs/com.nicho1asdev.nonotch_1.2-b2_iphoneos-arm.deb
+Size: 37262
+MD5sum: 6aa3d395248ef83bf08be2332f96f0ad
+SHA1: 8326f5f90980a3f7cf2f5ed3d9e5c0e9be729cdd
+SHA256: 7498aa6222b3bdee15be14285b7a9c3e79cadfcac0d94f918d9e965830ad2ee6
+Section: System
+Description: Updated for iOS 13 and arm64e by nicho1asdev, originally made by jakeashacks. Hides the notch on iPhone X and above. Issues are present. Source code: https://github.com/jakeajames/noNotch
+Author: Jake James <jakeashacks@gmail.com>
+Name: noNotch
+
 Package: com.nicho1asdev.powertap13
 Version: 1.0.1
 Architecture: iphoneos-arm
