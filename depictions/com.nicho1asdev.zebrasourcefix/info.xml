@@ -25,7 +25,7 @@
 		</screenshot>
 	</screenshots>-->
 	<changelog>
-		<change>Initial release.</change>
+		<change>Fixed a bug so that the success popup only appears once.</change>
 	</changelog>
 	<links>
 		<link>
