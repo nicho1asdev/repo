@@ -1,0 +1,37 @@
+<package>
+	<id>com.nicho1asdev.zebrasourcefix</id>
+	<name>ZebraSourceFix</name>
+	<version>1.0</version>
+	<compatibility>
+		<firmware>
+			<miniOS>11</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>mobilesubstrate</package>
+		<package>xyz.willy.zebra</package>
+	</dependencies>
+	<shortDescription>Stop Zebra from hijacking Cydia and Sileo open requests!</shortDescription>
+	<descriptionlist>
+	</descriptionlist>
+	<!--<screenshots>
+		<screenshot>
+			<description>This is a description for screenshot 1. It's Cydia!</description>
+			<image>cydia.jpg</image>
+		</screenshot>
+		<screenshot>
+			<description>This is a description for screenshot 2. It's another Cydia!</description>
+			<image>cydia.jpg</image>
+		</screenshot>
+	</screenshots>-->
+	<changelog>
+		<change>Initial release.</change>
+	</changelog>
+	<links>
+		<link>
+			<name>@itsnicho1as on Twitter</name>
+			<url>https://www.twitter.com/itsnicho1as</url>
+			<iconclass>fa fa-twitter</iconclass>
+		</link>
+	</links>
+</package>
