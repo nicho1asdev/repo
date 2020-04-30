@@ -1,0 +1,45 @@
+<package>
+	<id>com.nicho1asdev.konban</id>
+	<name>Konban for iOS 13</name>
+	<version>0.3.0-b2</version>
+	<compatibility>
+		<firmware>
+			<miniOS>13</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>mobilesubstrate</package>
+	</dependencies>
+	<shortDescription></shortDescription>
+	<descriptionlist>
+		<description>Replaces the "Today" view with an app of your choice. Originally made by Nepeta. Rewritten for iOS 13 by nicho1asdev.</description>
+		<description>Keep in mind that this package is in beta, issues or bugs may be there. If you find any, please contact me on Twitter @itsnicho1as.</description>
+		<description>Choose any application you want from settings.</description>
+		<description>Options to configure from settings.</description>
+		<description>KNOWN ISSUES: Keyboard will not appear in the Konban view.</description>
+	</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<image>spotify.jpg</image>
+		</screenshot>
+		<screenshot>
+			<image>calculator.jpg</image>
+		</screenshot>
+		<screenshot>
+			<image>calculatorhalf.jpg</image>
+		</screenshot>
+		<screenshot>
+			<image>prefs.jpg</image>
+		</screenshot>
+	</screenshots>
+	<changelog>
+		<change>Initial release.</change>
+	</changelog>
+	<links>
+		<link>
+			<name>@itsnicho1as on Twitter</name>
+			<url>https://www.twitter.com/itsnicho1as</url>
+			<iconclass>fa fa-twitter</iconclass>
+		</link>
+	</links>
+</package>
