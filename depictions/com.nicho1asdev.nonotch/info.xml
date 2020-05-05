@@ -1,7 +1,7 @@
 <package>
 	<id>com.nicho1asdev.nonotch</id>
 	<name>noNotch</name>
-	<version>1.2-b1</version>
+	<version>1.2-b3</version>
 	<compatibility>
 		<firmware>
 			<miniOS>11</miniOS>
@@ -10,10 +10,11 @@
 	<dependencies>
 		<package>mobilesubstrate</package>
 	</dependencies>
-	<shortDescription>Updated for iOS 13 and arm64e by nicho1asdev, originally made by jakeashacks. Hides the notch on iPhone X and above. Issues are present. Source code: https://github.com/jakeajames/noNotch</shortDescription>
+	<shortDescription>Hides the notch on iPhone X and above. Updated for iOS 13 and arm64e by nicho1asdev, originally made by jakeashacks. Issues may be present.</shortDescription>
 	<descriptionlist>
 		<description>Should be compatible with iOS 11 to iOS 13, if not, please send me a message on Twitter @itsnicho1as.</description>
-		<description>Options to configure in settings.</description>
+		<description>Option to disable certain apps.</description>
+		<description>More options are planned!</description>
 	</descriptionlist>
 	<!--<screenshots>
 		<screenshot>
@@ -26,7 +27,7 @@
 		</screenshot>
 	</screenshots>-->
 	<changelog>
-		<change>* Partially fixed an annoying issue where the status bar and notch cover wouldn’t be there while the device was locked. This would cause a “flash” when unlocking the device. Now, only the status bar is gone while the device is locked, getting rid of the “flash”.</change>
+		<change>Fixed a bug where the notch cover would cover the camera app on the lockscreen.</change>
 	</changelog>
 	<links>
 		<link>
