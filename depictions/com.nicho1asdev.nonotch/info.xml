@@ -1,7 +1,7 @@
 <package>
 	<id>com.nicho1asdev.nonotch</id>
 	<name>noNotch</name>
-	<version>1.2-b4</version>
+	<version>1.2-b5</version>
 	<compatibility>
 		<firmware>
 			<miniOS>11</miniOS>
@@ -28,12 +28,17 @@
 		</screenshot>
 	</screenshots>-->
 	<changelog>
-		<change>Added an option to change the notch cover corner radius (requested on reddit).</change>
-		<change>Fixed a notification center bug in landscape mode.</change>
-		<change>Allow gestures in the status bar such as tap to scroll to top.</change>
-		<change>Fixed a bug where a disabled app would still have noNotch.</change>
+		<change>Removed the regular status bar visible in apps while launching them.</change>
+		<change>Fixed a bug where the corner radius wasn’t applied while the device was locked.</change>
+		<change>Fixed a bug where the status bar could reappear in a disabled application.</change>
+		<change>Fixed issues when the device was locked.</change>
 	</changelog>
 	<links>
+		<link>
+			<name>Support me on Paypal</name>
+			<url>https://www.paypal.me/nicholasdev</url>
+			<iconclass>fa fa-paypal</iconclass>
+		</link>
 		<link>
 			<name>@itsnicho1as on Twitter</name>
 			<url>https://www.twitter.com/itsnicho1as</url>
