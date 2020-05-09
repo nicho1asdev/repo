@@ -1,7 +1,7 @@
 <package>
 	<id>com.nicho1asdev.nonotch</id>
 	<name>noNotch</name>
-	<version>1.2-b5</version>
+	<version>1.2-b6</version>
 	<compatibility>
 		<firmware>
 			<miniOS>11</miniOS>
@@ -28,10 +28,7 @@
 		</screenshot>
 	</screenshots>-->
 	<changelog>
-		<change>Removed the regular status bar visible in apps while launching them.</change>
-		<change>Fixed a bug where the corner radius wasn’t applied while the device was locked.</change>
-		<change>Fixed a bug where the status bar could reappear in a disabled application.</change>
-		<change>Fixed issues when the device was locked.</change>
+		<change>Quick fix to show the status bar in the control center.</change>
 	</changelog>
 	<links>
 		<link>

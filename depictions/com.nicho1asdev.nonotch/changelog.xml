@@ -1,5 +1,9 @@
 <changelog>
 	<changes>
+		<version>1.2-b6</version>
+		<change>Quick fix to show the status bar in the control center.</change>
+	</changes>
+	<changes>
 		<version>1.2-b5</version>
 		<change>Removed the regular status bar visible in apps while launching them.</change>
 		<change>Fixed a bug where the corner radius wasn’t applied while the device was locked.</change>
