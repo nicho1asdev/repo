@@ -1,6 +1,11 @@
 <changelog>
 	<changes>
+		<version>1.2-b8</version>
+		<change>Fixed an issue that caused a crash while hiding the notch cover.</change>
+	</changes>
+	<changes>
 		<version>1.2-b7</version>
+		<change>Fixed an issue that caused crashes while hiding the notch cover.</change>
 		<change>Fixed a reappearing bug that made the notch cover disappear while the device was locked. I also added the status bar to the notch cover when the device is locked, instead of just being black until the device is unlocked.</change>
 	</changes>
 	<changes>
