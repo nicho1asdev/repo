@@ -14,7 +14,7 @@
 	<shortDescription>Replaces the reachability gesture to lock the device instead.</shortDescription>
 	<descriptionlist>
 		<description>Only tested on iOS 13, feel free to try it on other iOS versions and please report back the results to me on Twitter @itsnicho1as.</description>
-		<description>Made for iPhones without a home button, should work on other devices as well but it's not made for those.
+		<description>Made for iPhones without a home button, should work on other devices as well but it's not made for those.</description>
 		<description>Option to still open reachability by swiping down one time and locking the device with two reachability swipes.</description>
 		<description>Option to change the delay time that is required between multiple swipes.</description>
 		<description>More options are planned!</description>
