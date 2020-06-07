@@ -1,0 +1,47 @@
+<package>
+	<id>com.nicho1asdev.reachtolockx</id>
+	<name>ReachToLockX</name>
+	<version>1.0</version>
+	<compatibility>
+		<firmware>
+			<miniOS>13</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>mobilesubstrate</package>
+		<package>Cephei</package>
+	</dependencies>
+	<shortDescription>Replaces the reachability gesture to lock the device instead.</shortDescription>
+	<descriptionlist>
+		<description>Only tested on iOS 13, feel free to try it on other iOS versions and please report back the results to me on Twitter @itsnicho1as.</description>
+		<description>Made for iPhones without a home button, should work on other devices as well but it's not made for those.
+		<description>Option to still open reachability by swiping down one time and locking the device with two reachability swipes.</description>
+		<description>Option to change the delay time that is required between multiple swipes.</description>
+		<description>More options are planned!</description>
+	</descriptionlist>
+	<!--<screenshots>
+		<screenshot>
+			<description>This is a description for screenshot 1. It's Cydia!</description>
+			<image>cydia.jpg</image>
+		</screenshot>
+		<screenshot>
+			<description>This is a description for screenshot 2. It's another Cydia!</description>
+			<image>cydia.jpg</image>
+		</screenshot>
+	</screenshots>-->
+	<changelog>
+		<change>Initial release.</change>
+	</changelog>
+	<links>
+		<link>
+			<name>Support me on Paypal</name>
+			<url>https://www.paypal.me/nicholasdev</url>
+			<iconclass>fa fa-paypal</iconclass>
+		</link>
+		<link>
+			<name>@itsnicho1as on Twitter</name>
+			<url>https://www.twitter.com/itsnicho1as</url>
+			<iconclass>fa fa-twitter</iconclass>
+		</link>
+	</links>
+</package>
