@@ -30,7 +30,8 @@
 		</screenshot>
 	</screenshots>-->
 	<changelog>
-		<change>Initial release.</change>
+		<change>Added a new mode that let's you lock the device with one reachability gesture swipe and open reachability with two swipes.</change>
+		<change>Added a new option that let's you completely disable reachability.</change>
 	</changelog>
 	<links>
 		<link>
