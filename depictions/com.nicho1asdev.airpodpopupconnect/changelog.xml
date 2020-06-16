@@ -1,9 +1,12 @@
 <changelog>
 	<changes>
+		<version>1.0.1</version>
+		<change>Quick update for the new version of libappearancecell.</change>
+	</changes>
+	<changes>
 		<version>1.0.0</version>
 		<change>Added preferences to configure from settings.</change>
 		<change>Added a new Apple-style with a much nicer connect button.</change>
-		<changes>
 	</changes>
 		<version>0.0.1</version>
 		<change>Initial Release</change>
