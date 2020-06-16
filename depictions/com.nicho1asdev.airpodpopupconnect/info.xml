@@ -1,0 +1,50 @@
+<package>
+	<id>com.nicho1asdev.airpodpopupconnect</id>
+	<name>AirPopupConnect</name>
+	<version>1.0.0</version>
+	<compatibility>
+		<firmware>
+			<miniOS>13</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>mobilesubstrate</package>
+		<package>Cephei</package>
+		<package>libappearancecell</package>
+	</dependencies>
+	<shortDescription>Adds a connect button to the Airpods (or any other H1-chip device) popup screen!</shortDescription>
+	<descriptionlist>
+		<description>Only tested on iOS 13, feel free to try it on other iOS versions and report the results to me on Twitter @itsnicho1as.</description>
+		<description>Adds a connect button to the Airpods (or any other H1-chip device) popup screen!</description>
+	</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<description>Apple-style</description>
+			<image>apple-style.jpg</image>
+		</screenshot>
+		<screenshot>
+			<description>Plain</description>
+			<image>plain-style.jpg</image>
+		</screenshot>
+		<screenshot>
+			<description></description>
+			<image>settings.jpg</image>
+		</screenshot>
+	</screenshots>
+	<changelog>
+		<change>Added preferences to configure from settings.</change>
+		<change>Added a new Apple-style with a much nicer connect button.</change>
+	</changelog>
+	<links>
+		<link>
+			<name>Support me on Paypal</name>
+			<url>https://www.paypal.me/nicholasdev</url>
+			<iconclass>fa fa-paypal</iconclass>
+		</link>
+		<link>
+			<name>@itsnicho1as on Twitter</name>
+			<url>https://www.twitter.com/itsnicho1as</url>
+			<iconclass>fa fa-twitter</iconclass>
+		</link>
+	</links>
+</package>
