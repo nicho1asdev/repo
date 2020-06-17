@@ -1,5 +1,9 @@
 <changelog>
 	<changes>
+		<version>1.2-b10</version>
+		<change>Added an option to adjust the covers height.</change>
+	</changes>
+	<changes>
 		<version>1.2-b9</version>
 		<change>Added an option to adjust the covers height.</change>
 	</changes>
