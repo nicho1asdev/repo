@@ -1,7 +1,7 @@
 <changelog>
 	<changes>
 		<version>1.2-b10</version>
-		<change>Added an option to adjust the covers height.</change>
+		<change>Fix a bug that when swiping back from the camera to the notification center while in lanscape mode made the notch cover appear on screen.</change>
 	</changes>
 	<changes>
 		<version>1.2-b9</version>
