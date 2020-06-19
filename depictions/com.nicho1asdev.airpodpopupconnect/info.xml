@@ -36,7 +36,10 @@
 		</screenshot>
 	</screenshots>
 	<changelog>
-		<change>Quick update for the new version of libappearancecell.</change>
+		<change>Added a new style that adds a done button beside the connect button.</change>
+		<change>Better looking images for the styles in preferences (thanks ConorTheDev for the help)</change>
+		<change>Fixed a bug that made the connect button non-responsive.</change>
+		<change>Added a nice highlight animation while holding on the connect or done button.</change>
 	</changelog>
 	<links>
 		<link>
