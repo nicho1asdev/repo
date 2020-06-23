@@ -16,7 +16,7 @@
 	<descriptionlist>
 		<description>Only tested on iOS 13, feel free to try it on other iOS versions and report the results to me on Twitter @itsnicho1as.</description>
 		<description>Adds a connect button to the Airpods (or any other H1-chip device) popup screen!</description>
-		<description>Icludes dark mode for the popup as well as adaptive dark/light mode.</description>
+		<description>Includes a dark mode for the popup as well as adaptive dark/light mode.</description>
 	</descriptionlist>
 	<screenshots>
 		<screenshot>
