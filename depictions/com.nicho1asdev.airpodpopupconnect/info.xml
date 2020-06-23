@@ -1,7 +1,7 @@
 <package>
 	<id>com.nicho1asdev.airpodpopupconnect</id>
 	<name>AirPopupConnect</name>
-	<version>1.0.2</version>
+	<version>1.1</version>
 	<compatibility>
 		<firmware>
 			<miniOS>13</miniOS>
@@ -16,6 +16,7 @@
 	<descriptionlist>
 		<description>Only tested on iOS 13, feel free to try it on other iOS versions and report the results to me on Twitter @itsnicho1as.</description>
 		<description>Adds a connect button to the Airpods (or any other H1-chip device) popup screen!</description>
+		<description>Icludes dark mode for the popup as well as adaptive dark/light mode.</description>
 	</descriptionlist>
 	<screenshots>
 		<screenshot>
@@ -36,10 +37,11 @@
 		</screenshot>
 	</screenshots>
 	<changelog>
-		<change>Added a new style that adds a done button beside the connect button.</change>
-		<change>Better looking images for the styles in preferences (thanks ConorTheDev for the help)</change>
-		<change>Fixed a bug that made the connect button non-responsive.</change>
-		<change>Added a nice highlight animation while holding on the connect or done button.</change>
+		<change>Added a new dark mode.</change>
+		<change>Added an adaptive dark/light mode switch that changes between them depending on what the system is using.</change>
+		<change>New icon.</change>
+		<change>Corrected the height of the popup.</change>
+		<change>Fixed a that made the corner radius uneven on the top and bottom corners.</change>
 	</changelog>
 	<links>
 		<link>

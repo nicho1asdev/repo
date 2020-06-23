@@ -1,5 +1,13 @@
 <changelog>
 	<changes>
+		<version>1.1</version>
+		<change>Added a new dark mode.</change>
+		<change>Added an adaptive dark/light mode switch that changes between them depending on what the system is using.</change>
+		<change>New icon.</change>
+		<change>Corrected the height of the popup.</change>
+		<change>Fixed a that made the corner radius uneven on the top and bottom corners.</change>
+	</changes>
+	<changes>
 		<version>1.0.2</version>
 		<change>Added a new style that adds a done button beside the connect button.</change>
 		<change>Better looking images for the styles in preferences (thanks ConorTheDev for the help)</change>
@@ -15,6 +23,7 @@
 		<change>Added preferences to configure from settings.</change>
 		<change>Added a new Apple-style with a much nicer connect button.</change>
 	</changes>
+	<changes>
 		<version>0.0.1</version>
 		<change>Initial Release</change>
 	</changes>
