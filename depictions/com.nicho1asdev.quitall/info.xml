@@ -1,0 +1,42 @@
+<package>
+	<id>com.nicho1asdev.quitall</id>
+	<name>QuitAll</name>
+	<version>1.0.2</version>
+	<compatibility>
+		<firmware>
+			<miniOS>13</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>mobilesubstrate</package>
+		<package>Cephei</package>
+	</dependencies>
+	<descriptionlist>
+		<description>One tweak to quit them all. Made by Dave van Wijk, modified by nicho1asdev. Long press quit button to always quit all, even now playing apps.</description>
+	</descriptionlist>
+	<!--<screenshots>
+		<screenshot>
+			<description>This is a description for screenshot 1. It's Cydia!</description>
+			<image>cydia.jpg</image>
+		</screenshot>
+		<screenshot>
+			<description>This is a description for screenshot 2. It's another Cydia!</description>
+			<image>cydia.jpg</image>
+		</screenshot>
+	</screenshots>-->
+	<changelog>
+		<change>Initial release.</change>
+	</changelog>
+	<links>
+		<link>
+			<name>Support me on Paypal</name>
+			<url>https://www.paypal.me/nicholasdev</url>
+			<iconclass>fa fa-paypal</iconclass>
+		</link>
+		<link>
+			<name>@itsnicho1as on Twitter</name>
+			<url>https://www.twitter.com/itsnicho1as</url>
+			<iconclass>fa fa-twitter</iconclass>
+		</link>
+	</links>
+</package>
