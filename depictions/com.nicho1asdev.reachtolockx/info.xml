@@ -30,8 +30,8 @@
 		</screenshot>
 	</screenshots>-->
 	<changelog>
-		<change>Added a new mode that let's you lock the device with one reachability gesture swipe and open reachability with two swipes.</change>
-		<change>Added a new option that let's you completely disable reachability.</change>
+		<change>Offical iOS 14 support.</change>
+		<change>Added iPad support.
 	</changelog>
 	<links>
 		<link>
