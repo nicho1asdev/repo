@@ -13,6 +13,7 @@
 	<shortDescription>Replaces the UIActivityIndicatorView to the iOS 14 version!</shortDescription>
 
 	<descriptionlist>
+		<description>Replaces the UIActivityIndicatorView to the iOS 14 version!</description>
 		<description>Only tested on iOS 13 but should work in other versions as well.</description>
 	</descriptionlist>
 
