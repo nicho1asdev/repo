@@ -12,7 +12,7 @@
 	</dependencies>
 	<shortDescription></shortDescription>
 	<descriptionlist>
-		<description>Now with iOS 14 support!<description>
+		<description>Now with iOS 14 support!</description>
 		<description>Replaces the "Today" view with an app of your choice. Originally made by Nepeta. Rewritten for iOS 13 and 14 by nicho1asdev.</description>
 		<!-- <description>Keep in mind that this package is in beta, issues or bugs may be there. If you find any, please contact me on Twitter @itsnicho1as.</description> -->
 		<description>Choose any application you want from settings.</description>
