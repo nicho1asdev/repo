@@ -34,7 +34,7 @@
 	</screenshots>
 	<changelog>
 		<change>Added support for iOS 14</change>
-		<change>The invisable keyboard bug is finally fixed thanks to brendonjkding. https://github.com/nicho1asdev/Konban/pull/1</change>
+		<change>The invisible keyboard bug is finally fixed thanks to brendonjkding. https://github.com/nicho1asdev/Konban/pull/1</change>
 	</changelog>
 	<links>
 		<link>
