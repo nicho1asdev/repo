@@ -1,0 +1,39 @@
+<package>
+	<id>com.nicho1asdev.airpodpopupconnect</id>
+	<name>AirPopupDark</name>
+	<version>1.0.0</version>
+	<compatibility>
+		<firmware>
+			<miniOS>14</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>mobilesubstrate</package>
+	</dependencies>
+	<shortDescription>Dynamic dark/light mode for the air popup!</shortDescription>
+	<descriptionlist>
+		<description>Only supports iOS 14 for now.</description>
+	</descriptionlist>
+	<screenshots>
+	</screenshots>
+	<changelog>
+		<change>Initial Release</change>
+	</changelog>
+	<links>
+		<link>
+			<name>Support me on Paypal</name>
+			<url>https://www.paypal.me/itsnicho1as</url>
+			<iconclass>fa fa-paypal</iconclass>
+		</link>
+		<link>
+			<name>Support me on Patreon</name>
+			<url>https://www.patreon.com/nicho1asdev</url>
+			<iconclass>fa fa-patreon</iconclass>
+		</link>
+		<link>
+			<name>@itsnicho1as on Twitter</name>
+			<url>https://www.twitter.com/itsnicho1as</url>
+			<iconclass>fa fa-twitter</iconclass>
+		</link>
+	</links>
+</package>
