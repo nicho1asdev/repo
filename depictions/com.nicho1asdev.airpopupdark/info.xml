@@ -1,7 +1,7 @@
 <package>
 	<id>com.nicho1asdev.airpodpopupconnect</id>
 	<name>AirPopupDark</name>
-	<version>1.0.0</version>
+	<version>1.0.1</version>
 	<compatibility>
 		<firmware>
 			<miniOS>14</miniOS>
@@ -17,7 +17,7 @@
 	<screenshots>
 	</screenshots>
 	<changelog>
-		<change>Initial Release</change>
+		<change>Fix for A12+</change>
 	</changelog>
 	<links>
 		<link>
